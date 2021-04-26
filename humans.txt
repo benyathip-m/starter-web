@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+    Ben
 
 # TECHNOLOGY COLOPHON
 
