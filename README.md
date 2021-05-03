@@ -12,3 +12,4 @@ copyright
 test5
 test6
 change from myfeature branch
+All rights reserved
